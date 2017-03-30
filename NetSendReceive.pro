@@ -9,10 +9,10 @@ QT += core gui network widgets
 TARGET = NetSendReceive
 TEMPLATE = app
 
-VERSION = 1.0
+VERSION = 1.0.1
 QMAKE_TARGET_COPYRIGHT = copyright 2017 LAAS/CNRS
 
-DEFINES += "NSR_VERSION=\\\"1.0\\\""
+DEFINES += "NSR_VERSION=\\\"1.0.1\\\""
 
 SOURCES +=\
     Common/main.cpp \
